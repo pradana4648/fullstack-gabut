@@ -1,5 +1,10 @@
 {
-  "name": "three-js-tutorial",
+  "name": "fullstack-gabut",
+  "author": {
+    "name": "Pradana",
+    "email": "wakwaujaim@gmail.com",
+    "url": "https://dan-tech.online"
+  },
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -28,3 +33,4 @@
     "vite": "^2.9.9"
   }
 }
+
